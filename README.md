@@ -1,4 +1,4 @@
-I have generated a sitemap in `/public/output-sitemaps`.
+I have generated a sitemap in `/public/output-sitemaps`.  
 Browse here: [/public/output-sitemaps](https://github.com/masa5714/next-sitemap-outdir-sample/tree/main/public/output-sitemaps)
 
 The problematic files are as follows:
